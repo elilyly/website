@@ -15,8 +15,12 @@ html, body {
   background-repeat:repeat;
 }
 h4 {
-  font-size: 22px;
+  font-size: 42px;
+  letter-spacing: 0.45em;
+  font-style: italic;
+  font-weight: 10;
   margin-bottom: 28px;
+  color: #E84423;
 }
 p {
   font-size: 22px;
@@ -234,7 +238,18 @@ section.san-francisco {
   background: #EAD1CA;
   padding: 90px 80px;
   border-radius: 0px;
-  margin-left: 60px;
+  margin-left: 80px;
+}
+
+.text-editor2 {
+  background: #040406;
+  /*padding: 90px 10px;*/
+  margin-left: 90px;
+  width: 800px;
+	height: 800px;
+  border-radius: 600px;
+  border: 22px solid #EAD1CA;
+
 }
 code {
   text-align: left;
