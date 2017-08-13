@@ -242,14 +242,13 @@ section.san-francisco {
 }
 
 .text-editor2 {
-  background: #040406;
+  background: #E5E5E5;
   /*padding: 90px 10px;*/
   margin-left: 90px;
   width: 800px;
 	height: 800px;
   border-radius: 600px;
-  border: 22px solid #EAD1CA;
-
+  border: 12px solid #E5E5E5;
 }
 code {
   text-align: left;
