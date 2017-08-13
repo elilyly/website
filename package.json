@@ -1,0 +1,24 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^0.100.1",
+    "rellax": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elilyly/website.git"
+  },
+  "author": "Elizabeth Nicholson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elilyly/website/issues"
+  },
+  "homepage": "https://github.com/elilyly/website#readme"
+}
