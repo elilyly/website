@@ -39,7 +39,7 @@ a:hover,
 a:active,
 a:visited {
   text-decoration: none;
-  color: #EED7C9;
+  color: #070707;
 }
 
 header h2 {
@@ -252,15 +252,38 @@ section.san-francisco {
   margin-left: 80px;
 }
 
-/*.text-editor2 {
+.text-editor2 {
+  /*background: #FFE300;*/
+  /*padding: 90px 10px;*/
+  width: 1050px;
+  height: 400px;
+  margin-left: 10px;
+  margin-right: 0px;
+  padding: 90px 80px;
+  border: 12px solid #FFE300;
+  border-width: medium;
+}
+.text-editor3 {
+  /*background: #FFE300;*/
+  /*padding: 90px 10px;*/
+  width: 450px;
+  height: 400px;
+  margin-left: 10px;
+  margin-right: 0px;
+  padding: 90px 80px;
+  border: 12px solid #FFE300;
+  border-width: medium;
+}
+
+.text-editor4 {
   background: #FFE300;
   /*padding: 90px 10px;*/
-  margin-left: 90px;
-  width: 800px;
-	height: 800px;
-  border-radius: 600px;
-  border: 12px solid #E5E5E5;
-}*/
+  width: 70px;
+  height: 70px;
+  border: 12px solid #FFE300;
+  border-width: medium;
+}
+
 code {
   text-align: left;
   padding: 0;
